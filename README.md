@@ -1,5 +1,5 @@
 # irc
-Simple Internet Relay Chat, Features Ciphers, DES &amp; More (indev)
+Simple Command Line Internet Relay Chat, Features Ciphers, DES &amp; More (indev)
 
 Currently In Dev Build
 
