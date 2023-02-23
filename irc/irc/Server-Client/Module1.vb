@@ -22,7 +22,7 @@
             th.Start()
         ElseIf Environment.GetCommandLineArgs(1).ToLower.Contains("help") Then
             Console.WriteLine("methods: host | connect")
-            Console.WriteLine("ciphers: bobo | ascii | ctx | stx | raw | dbl | cust | des | des-padding")
+            Console.WriteLine("ciphers: bobo | ascii | ctx | raw | dbl | cust | des | des-padding")
             Console.WriteLine(vbNewLine + "note: when using des with padding, use this format")
             Console.WriteLine("format example: des-padding ctx password" + vbNewLine + vbNewLine)
             Console.WriteLine("note: when using custom chars, make sure to set the file location")
