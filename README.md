@@ -12,4 +12,4 @@ Currently In Dev Build
 - New Ciphers
 - More Useability
 
--command line usage: irc help
+- command line usage: irc help
