@@ -31,6 +31,11 @@
             Console.WriteLine("irc host nickname cipher_choice")
             Console.WriteLine(vbNewLine + "- connection usage")
             Console.WriteLine("irc connect nickname ip port cipher_choice")
+            Console.WriteLine(vbNewLine + vbNewLine + "- commands")
+            Console.WriteLine("/method > change method > example: method ctx")
+            Console.WriteLine("/padding > change padding > example: padding utf")
+            Console.WriteLine("/color > set text color > example: color red")
+            Console.WriteLine("/max > max clients connected at one time > example: max 10")
         End If
     End Sub
 End Module
