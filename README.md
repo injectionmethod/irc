@@ -13,3 +13,15 @@ Currently In Dev Build
 - More Useability
 
 *command line usage: irc help*
+
+[Cipher List]
+
+- ASCII
+- UNICODE
+- BOBO
+- CANTAX
+- YABUJIN
+- KYOTO
+- OCEANIA
+- DOUBLE
+- JLMK
