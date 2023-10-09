@@ -1,14 +1,15 @@
 # irc
-Simple Command Line Internet Relay Chat, Features Ciphers, DES &amp; More (indev)
+Simple Command Line Internet Relay Chat, Features Ciphers, AES, DES &amp; More (indev)
 
 Currently In Dev Build
 
 [Current Features]
 - 11 Different Substitution Cipher's Used For Padding And Transmissions
 - DES Support
-- Update Cipher Sets On The Fly
-[Future Features]
 - AES Support
+- Update Cipher Sets On The Fly
+- Portable modules, open source, use as you wish
+[Future Features]
 - New Ciphers
 - More Useability
 
