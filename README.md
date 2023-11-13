@@ -29,5 +29,7 @@ Currently In Dev Build
 - PST
 
 [DES Options]
+
 Option 1 = Average DES
+
 Option 2 = Des With 2x Padding Operations Applied, Plus Another 2x Custom Padding Operations Applied
