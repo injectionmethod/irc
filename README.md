@@ -28,6 +28,13 @@ Currently In Dev Build
 - QEA
 - PST
 
+[AES Options]
+
+Option 1 = Average AES
+
+Option 2 = AES With 2x Padding Operations Applied, Plus Another 2x Custom Padding Operations Applied
+
+
 [DES Options]
 
 Option 1 = Average DES
