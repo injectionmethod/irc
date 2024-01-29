@@ -1,5 +1,6 @@
 # irc
 Simple Command Line Internet Relay Chat, Features Ciphers, AES, DES &amp; More (indev)
+**command line usage: irc help**
 
 Currently In Dev Build
 
@@ -14,7 +15,6 @@ Currently In Dev Build
 - New Ciphers
 - More Useability
 
-*command line usage: irc help*
 
 [Substition Cipher Charset List]
 - ASCII
